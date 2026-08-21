@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src\KeyAuth.Client\KeyAuth.Client.csproj" />
+  <Project Path="src\KeyAuth.Server\KeyAuth.Server.csproj" />
+  <Project Path="_BuildTrigger.csproj" />
+  <Project Path="Build.csproj" />
+</Solution>
